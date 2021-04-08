@@ -1,0 +1,5 @@
+Credentials cache: API:5BDD1F48-4AE4-4AAD-A51E-F0B514C6EE6E
+        Principal: bifrah@42.FR
+
+  Issued                Expires               Principal
+Mar  9 09:15:24 2021  Mar 16 09:15:24 2021  krbtgt/42.FR@42.FR
